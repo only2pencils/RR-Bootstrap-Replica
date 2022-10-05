@@ -15,9 +15,9 @@ export default function StorListings() {
           fontWeight: "normal",
         }}
       >
-        Browse stores in New Jersey
+        Browse stores in Houston
       </h2>
-      <Container style={{ marginTop: "50px", textAlign: "center" }}>
+      <Container style={{ marginTop: "40px", textAlign: "center" }}>
         <Row
           style={{
             borderBottom: "1px solid #E8E9EB",
